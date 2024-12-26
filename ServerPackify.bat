@@ -55,6 +55,7 @@ del /q "rebind-1.12.2-2.7.5-0.jar"
 del /q "ThaumicInventoryScanning_1.12.2-2.0.10.jar"
 del /q "Modpack Configuration Checker-1.12.2-v1.9.5.jar"
 del /q "CustomMainMenu-MC1.12.2-2.0.9.1.jar"
+del /q "mcmouser-1.12.2-forge-1.0.2.jar"
 
 rem go back to base directory to load config folder correctly
 popd .
