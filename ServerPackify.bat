@@ -74,6 +74,7 @@ rmdir /S /Q "MusicTriggers\example"
 rmdir /S /Q "MusicTriggers\songs"
 rmdir /S /Q "MusicTriggers\umbopack_bosses"
 rmdir /S /Q "MusicTriggers\umbopack_dimension_biome"
+rmdir /S /Q "MusicTriggers\menu"
 
 
 echo All done! Script by Maruooki
